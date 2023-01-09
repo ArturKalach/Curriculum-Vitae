@@ -45,7 +45,7 @@ English B2
 | Period  | From (10/2022) - Present |
 | Project Description | MVP mobile application for a grocery shop. |
 | Position | ReactNative key-developer |
-| Responsibilities | Working and helping with MVP solutions. Adding and implementing an analytics system, and integration of a payment system. |
+| Responsibilities | Working and helping with MVP solutions. Adding and implementing an analytics system, integration of a payment system, integration push notification system with Selligent |
 | Tools & Technologies | ReactNative (Redux, Redux Thunk, algolia) | 
 
 || Life Sciences & Healthcare  |
@@ -82,7 +82,7 @@ English B2
 
 ## Education
 - 2011-2014 Vocational education in the Operation of electronic computers/Maintenance and repair of computer equipment 
-- 2014-2017 Secondary specialized education in the information technology software
+- 2014-2017 Vocational specialized education in the information technology software
 - 2017-2021(not finished) Higher education in the information technology software
 
 ## What I am looking for?
