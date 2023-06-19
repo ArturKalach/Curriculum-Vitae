@@ -1,22 +1,22 @@
 # Artur Kalach </br><sub>Senior Software Engineer</sub>
 
 ## Summary
-Experienced Senior Software Engineer with more than 5 years of experience in IT. For the past three years I have been working for EPAM and specializing in `ReactNative` mobile development. I started with JavaScript and worked with various technologies, my experience includes working with both front-end and back-end sides, I have experience working with the technologies: `Vue`+`Laravel`(`Php`), PWA(`Vue`), and `React`. My experience in `RN` includes works with native part and languages like:  `Swift`, `Objc`, `Kotlin`, `Java`.
+Experienced Senior Software Engineer with more than 6 years of experience in IT. For the past three years I have been working for EPAM and specializing in `ReactNative` mobile development. I started with JavaScript and worked with various technologies, my experience includes working with both front-end and back-end sides, I have experience working with the technologies: `Vue`+`Laravel`(`Php`), PWA(`Vue`), and `React`. My experience in `RN` includes works with native part and languages like:  `Swift`, `Objc`, `Kotlin`, `Java`.
 
 | Languages & Technologies  | Experience (Years) | Level |
 | ------------- | ------------- | ------------- |
-| React Native | 3  | Expert |
-| React  | 3  | Expert |
-| Typescript | 2 | Advanced  |
-| GraphQL | 2 | Intermediate  |
-| JavaScript | 5 | Expert |
-| Jest | 2 | Advanced |
+| React Native | 4  | Expert |
+| React  | 4  | Expert |
+| Typescript | 3 | Advanced  |
+| GraphQL | 3 | Intermediate  |
+| JavaScript | 6 | Expert |
+| Jest | 3 | Advanced |
 | Swift | 1 | Novice |
 | Java | 1 | Novice |
-| Korlin | 1 | Novice |
+| Kotlin | 1 | Novice |
 | Objc | 1 | Novice |
-| Redux | 2 | Intermediate |
-| Redux Thunk | 1 | Intermediate |
+| Redux | 3 | Intermediate |
+| Redux Thunk | 2 | Intermediate |
 | Redux Saga | 1 | Intermediate |
 | Vue | 2 | Intermediate |
 | Vuex | 2 | Intermediate |
@@ -31,22 +31,28 @@ Experienced Senior Software Engineer with more than 5 years of experience in IT.
 I have experience working with different kinds of teams, I prefer working with an average team of 5-8 people, but have good experience working in big teams.
 My experience includes works by SCRUM, SAFe, and some experience in NEXUS.
 
-I also have a good experience of team-leading, but other team-leads and my RM helped and supported me. I'm also good at mentoring, interviewing onboarding and making knowledge transfers.
+I have a good experience of team-leading, and good at mentoring, interviewing onboarding and making knowledge transfers.
 
 ## Foreign languages
 English B2
 
 ## Professional Experience
 
-
+|| E-commerce assist mobile application. |
+| ------------- | ------------- |
+| Period  | From (03/2023) - Present |
+| Project Description | Assistant application for consultants in stores. |
+| Position | ReactNative key-developer |
+| Responsibilities | Integration and implementation of new features including supporting RTL languages |
+| Tools & Technologies | ReactNative (Redux, Redux Thunk, Redux Saga, Vision Camera, ReactNative Reanimated) | 
 
 || E-commerce mobile application. |
 | ------------- | ------------- |
-| Period  | From (10/2022) - Present |
+| Period  | From (10/2022) - To (03/2023) |
 | Project Description | MVP mobile application for a grocery shop. |
 | Position | ReactNative key-developer |
 | Responsibilities | Working and helping with MVP solutions. Adding and implementing an analytics system, integration of a payment system, integration push notification system with Selligent |
-| Tools & Technologies | ReactNative (Redux, Redux Thunk, algolia) | 
+| Tools & Technologies | ReactNative (Typescript, Graph QL, Jest) | 
 
 || Life Sciences & Healthcare  |
 | ------------- | ------------- |
@@ -85,8 +91,10 @@ English B2
 - 2014-2017 Vocational specialized education in the information technology software
 - 2017-2021(not finished) Higher education in the information technology software
 
-## What I am looking for?
-I am interested in improving my skills and experience, learning something new, and working with challenging tasks from technical and management sides. I would like to continue developing my ReactNative experience, however works as full-stack developer can be also a good option.
+## Additional Information
+I am also the author of the React Native libraries that extend and help to support A11y.
+You can find them in my GitHub: https://github.com/ArturKalach
+
 
 ## Contacts
 Email: artur.kalach.andreevich@gmail.com </br>
