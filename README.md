@@ -61,17 +61,16 @@ Contributed to open-source projects, including the React Native framework, enhan
 | **Tools & Technologies**    | React Native, GraphQL |
 
 ### Life Sciences & Healthcare
-|||
-|------------------------------|---------------------------------------------|
-| **Period**                  | From (09/2020) - To (09/2022)              |
-| **Project Description**     | A mobile application designed to provide health services, including health tracking, health coaching, medication schedules, medication management, and integrations with third-party applications. |
-| **Position**                | Key React Native Developer                  |
-| **Responsibilities**        | - Played a key role in the project from its inception, working on a wide range of technologies, features, and application epics.  
-                               - Implemented key features such as push notifications, form handling (Formik), analytics, charts, **accessibility (a11y), migrations, payment systems, and chat functionality.  
-                               - Developed native-side components and modules in Swift, Objective-C, and Java to improve application accessibility (a11y).  
-                               - Onboarded new developers, conducted interviews, transferred knowledge, and resolved technical debt.  
-                               - Acted as a team leader, guiding the team to achieve project goals efficiently. |
-| **Tools & Technologies**    | React Native, GraphQL, Push Notifications, Firebase, React Navigation, App Insights, Azure DevOps, Jest, TypeScript, Objective-C, Swift, Java |
+| **Attribute**               | **Details**                                                                                                                                                                                                                   |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Period**                  | From (09/2020) - To (09/2022)                                                                                                                                                                                               |
+| **Project Description**     | A mobile application designed to provide health services, including health tracking, health coaching, medication schedules, medication management, and integrations with third-party applications.                           |
+| **Position**                | Key React Native Developer                                                                                                                                                                                                 |
+| **Responsibilities**        | - Played a key role in the project from its inception, working on a wide range of technologies, features, and application epics.                                                                                            |
+|                              | - Implemented key features such as push notifications, form handling (Formik), analytics, charts, **accessibility (a11y)**, migrations, payment systems, and chat functionality.                                           |
+|                              | - Developed native-side components and modules in Swift, Objective-C, and Java to improve application accessibility (a11y).                                                                                                |
+|                              | - Onboarded new developers, conducted interviews, transferred knowledge, and resolved technical debt.                                                                                                                       |
+| **Tools & Technologies**    | React Native, GraphQL, Push Notifications, Firebase, React Navigation, App Insights, Azure DevOps, Jest, TypeScript, Objective-C, Swift, Java                                                                               |
 
 ---
 
